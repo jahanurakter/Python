@@ -15,5 +15,5 @@ def Add(a, b):
 
 
 # print(Add(10, 20))
-print(Add.__doc__)              # ._doc_  function er kaj ta ki ta output dey
+print(Add.__doc__)              # ._doc_  kono function er kaj ta ki ta output dey
 # print(help(Add))              #doc er same kaj help(Add)
