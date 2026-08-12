@@ -1,3 +1,5 @@
+
+
 with open("demo.txt", "r") as file:
     line1 = file.readline()
     line2 = file.readline()
